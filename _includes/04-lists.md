@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] first created header
+- [ ] second add image
+- [ ] now adding todo
